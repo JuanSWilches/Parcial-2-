@@ -1,4 +1,4 @@
-## Punto_2
+## Punto 2
 ---
 
 ```bash
