@@ -36,6 +36,9 @@ el siguiente comando mostrara las operaciones ingresadas en el archivo operacion
 ```bash
 python calculadora.py operacion.txt
 ```
+asi deberia de arrojar la terminal los resultados
+![image](https://github.com/user-attachments/assets/7ea8e18d-e28a-46e5-bd48-548f7cde28b1)
+
 
 
 
