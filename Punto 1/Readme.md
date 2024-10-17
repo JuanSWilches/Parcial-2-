@@ -36,8 +36,9 @@ el siguiente comando mostrara las operaciones ingresadas en el archivo operacion
 ```bash
 python calculadora.py operacion.txt
 ```
-asi deberia de arrojar la terminal los resultados
+La ejecucion quedaria de la siguiente manera:
 ![image](https://github.com/user-attachments/assets/7ea8e18d-e28a-46e5-bd48-548f7cde28b1)
+Podemos apreciar que el codigo exitosamente arroja el resultado esperado dicho en el pdf, tambien tenemos el segundo caso que es una operacion inventada, y el 3 caso es demostrar que sucede cuando se divide sobre 0 el cual normalmente se califica como error
 
 
 
