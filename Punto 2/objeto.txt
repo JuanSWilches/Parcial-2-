@@ -1,9 +1,0 @@
-MAP(cuadrado, [1, 2, 3, 4, 5])
-FILTER(par, [1, 2, 3, 4, 5, 6])
-MAP(doble, (1, 2, 3, 4, 5))
-FILTER(impar, (1, 2, 3, 4, 5, 6))
-MAP(incrementar, [1, 2, 3])
-MAP(decrementar, [5, 6, 7])
-MAP(absoluto, [1, -2, 3, -4, 5])
-MAP(multiplicar, (2, 3, 4))
-
