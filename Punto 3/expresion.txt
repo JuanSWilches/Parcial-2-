@@ -1,3 +1,1 @@
-F(f(t)) = F(w)
-P(rectangular) = P(rectangular)
-A(triangular) = A(triangular)
+f(t) = sin(2*pi*3*t)
