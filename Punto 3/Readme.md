@@ -1,5 +1,5 @@
 ## Punto 3
-. Diseñe una gramática para un lenguaje de programación que
+Diseñe una gramática para un lenguaje de programación que
 calcule la transformada de Fourier.
 ### 1. Descargar el Archivo Proyecto
 Antes de comenzar, debes descargar los archivos necesarios desde este repositorio de GitHub llamados:
