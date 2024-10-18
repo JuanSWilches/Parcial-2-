@@ -1,0 +1,3 @@
+F(f(t)) = F(w)
+P(rectangular) = P(rectangular)
+A(triangular) = A(triangular)
