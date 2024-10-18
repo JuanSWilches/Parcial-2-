@@ -16,6 +16,13 @@ En la terminal navegamos hasta la carpeta donde descargamos los archivos anterio
 cd prueba
 curl -O https://www.antlr.org/download/antlr-4.13.2-complete.jar
 ```
+
+Exporta la variable de entorno en la carpeta:
+```bash
+
+export CLASSPATH=".:/home/juan-wilches/prueba/antlr-4.13.2-complete.jar:$CLASSPATH"
+```
+
 ### 3. Crear entorno y instalar el antlr para python
 Necesitamos de un entorno virtual para poder usar el antlr con el pip
 ```bash
