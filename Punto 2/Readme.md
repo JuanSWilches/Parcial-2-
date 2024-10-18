@@ -1,7 +1,7 @@
 ## Punto 2
 Diseñe una gramática para un lenguaje de programación que
 realice las siguientes funciones:
-• Aplicar una función sobre los ítems de un objeto iterable
+ - Aplicar una función sobre los ítems de un objeto iterable
 (lista, tupla, etc...)
 o Ejemplo MAP(function, objeto iterable)
 ### 1. Descargar el Archivo Proyecto
