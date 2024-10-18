@@ -37,7 +37,7 @@ pip install antlr4-python3-runtime==4.13.2
 ### 4.Compilaremos la gramatica Fourier.g4
 ingresaremos el siguiente comando, donde se debe de modificar la direcion de la carpeta que tu creaste para guardar los archivos de este github y del antlr, este es el comando para la carpeta llamada prueba que dijimos en el paso 1
 ```bash
-java -jar /home/juan-wilches/prueba3/antlr-4.13.2-complete.jar -Dlanguage=Python3 objiterable.g4
+java -jar /home/juan-wilches/prueba3/antlr-4.13.2-complete.jar -Dlanguage=Python3 Fourier.g4
 ```
 ### 5.Ejecución
 el siguiente comando mostrara las operaciones ingresadas en el archivo expresion.txt
